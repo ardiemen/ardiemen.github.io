@@ -1,1 +1,300 @@
-# ardiemen.github.io
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Aezaa.id</title>
+
+    <link href="./index_files/aos.css" rel="stylesheet">
+    <link href="./index_files/main.css" rel="stylesheet">
+  </head>
+
+  <body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light navbar-store fixed-top navbar-fixed-top aos-init aos-animate scrolled" data-aos="fade-down">
+      <div class="container">
+        <a class="navbar-brand" href="https://store-html.buildwithangga.id/">
+          <img src="./index_files/logo.svg" alt="">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="">Home </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="">Categories</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="">Rewards</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="">Sign Up</a>
+            </li>
+            <li class="nav-item">
+              <a class="btn btn-success nav-link px-4 text-white" href="">Sign In</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="page-content page-home">
+      <section class="store-carousel">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12 aos-init aos-animate" data-aos="zoom-in">
+              <div id="storeCarousel" class="carousel slide" data-ride="carousel">
+                <ol class="carousel-indicators">
+                  <li data-target="#storeCarousel" data-slide-to="0" class=""></li>
+                  <li data-target="#storeCarousel" data-slide-to="1" class="active"></li>
+                  <li data-target="#storeCarousel" data-slide-to="2" class=""></li>
+                </ol>
+                <div class="carousel-inner">
+                  <div class="carousel-item">
+                    <img src="./index_files/banner.jpg" class="d-block w-100" alt="Carousel Image">
+                  </div>
+                  <div class="carousel-item active">
+                    <img src="./index_files/banner.jpg" class="d-block w-100" alt="Carousel Image">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="./index_files/banner.jpg" class="d-block w-100" alt="Carousel Image">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="store-trend-categories">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 aos-init aos-animate" data-aos="fade-up">
+              <h5>Trend Categories</h5>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-6 col-md-3 col-lg-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+              <a class="component-categories d-block" href="https://store-html.buildwithangga.id/#">
+                <div class="categories-image">
+                  <img src="./index_files/categories-gadgets.svg" alt="Gadgets Categories" class="w-100">
+                </div>
+                <p class="categories-text">
+                  Gadgets
+                </p>
+              </a>
+            </div>
+            <div class="col-6 col-md-3 col-lg-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+              <a class="component-categories d-block" href="https://store-html.buildwithangga.id/#">
+                <div class="categories-image">
+                  <img src="./index_files/categories-furniture.svg" alt="Furniture Categories" class="w-100">
+                </div>
+                <p class="categories-text">
+                  Furniture
+                </p>
+              </a>
+            </div>
+            <div class="col-6 col-md-3 col-lg-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+              <a class="component-categories d-block" href="https://store-html.buildwithangga.id/#">
+                <div class="categories-image">
+                  <img src="./index_files/categories-makeup.svg" alt="Makeup Categories" class="w-100">
+                </div>
+                <p class="categories-text">
+                  Makeup
+                </p>
+              </a>
+            </div>
+            <div class="col-6 col-md-3 col-lg-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+              <a class="component-categories d-block" href="https://store-html.buildwithangga.id/#">
+                <div class="categories-image">
+                  <img src="./index_files/categories-sneaker.svg" alt="Sneaker Categories" class="w-100">
+                </div>
+                <p class="categories-text">
+                  Sneaker
+                </p>
+              </a>
+            </div>
+            <div class="col-6 col-md-3 col-lg-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
+              <a class="component-categories d-block" href="https://store-html.buildwithangga.id/#">
+                <div class="categories-image">
+                  <img src="./index_files/categories-tools.svg" alt="Tools Categories" class="w-100">
+                </div>
+                <p class="categories-text">
+                  Tools
+                </p>
+              </a>
+            </div>
+            <div class="col-6 col-md-3 col-lg-2 aos-init aos-animate" data-aos="fade-up" data-aos-delay="600">
+              <a class="component-categories d-block" href="https://store-html.buildwithangga.id/#">
+                <div class="categories-image">
+                  <img src="./index_files/categories-baby.svg" alt="Baby Categories" class="w-100">
+                </div>
+                <p class="categories-text">
+                  Baby
+                </p>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="store-new-products">
+        <div class="container">
+          <div class="row">
+            <div class="col-12 aos-init aos-animate" data-aos="fade-up">
+              <h5>New Products</h5>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-6 col-md-4 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+              <a class="component-products d-block" href="https://store-html.buildwithangga.id/details.html">
+                <div class="products-thumbnail">
+                  <div class="products-image" style="
+                      background-image: url(&#39;3.jpg&#39;);
+                    "></div>
+                </div>
+                <div class="products-text">
+                  Blouse Twill Premium 
+                </div>
+                <div class="products-price">
+                  Rp 130.000
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+              <a class="component-products d-block" href="https://store-html.buildwithangga.id/details.html">
+                <div class="products-thumbnail">
+                  <div class="products-image" style="
+                      background-image: url(&#39;2.jpg&#39;);
+                    "></div>
+                </div>
+                <div class="products-text">
+                  Orange Bogotta
+                </div>
+                <div class="products-price">
+                  $94,509
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="300">
+              <a class="component-products d-block" href="https://store-html.buildwithangga.id/details.html">
+                <div class="products-thumbnail">
+                  <div class="products-image" style="
+                      background-image: url(&#39;3.jpg&#39;);
+                    "></div>
+                </div>
+                <div class="products-text">
+                  Sofa Ternyaman
+                </div>
+                <div class="products-price">
+                  $1,409
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="400">
+              <a class="component-products d-block" href="https://store-html.buildwithangga.id/details.html">
+                <div class="products-thumbnail">
+                  <div class="products-image" style="
+                      background-image: url(&#39;4.jpg&#39;);
+                    "></div>
+                </div>
+                <div class="products-text">
+                  Bubuk Maketti
+                </div>
+                <div class="products-price">
+                  $225
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="500">
+              <a class="component-products d-block" href="https://store-html.buildwithangga.id/details.html">
+                <div class="products-thumbnail">
+                  <div class="products-image" style="
+                      background-image: url(&#39;3.jpg&#39;);
+                    "></div>
+                </div>
+                <div class="products-text">
+                  Tatakan Gelas
+                </div>
+                <div class="products-price">
+                  $45,184
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="600">
+              <a class="component-products d-block" href="https://store-html.buildwithangga.id/details.html">
+                <div class="products-thumbnail">
+                  <div class="products-image" style="
+                      background-image: url(&#39;4.jpg&#39;);
+                    "></div>
+                </div>
+                <div class="products-text">
+                  Mavic Kawe
+                </div>
+                <div class="products-price">
+                  $503
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="700">
+              <a class="component-products d-block" href="https://store-html.buildwithangga.id/details.html">
+                <div class="products-thumbnail">
+                  <div class="products-image" style="
+                      background-image: url(&#39;2.jpg&#39;);
+                    "></div>
+                </div>
+                <div class="products-text">
+                  Black Edition Nike
+                </div>
+                <div class="products-price">
+                  $70,482
+                </div>
+              </a>
+            </div>
+            <div class="col-6 col-md-4 col-lg-3 aos-init aos-animate" data-aos="fade-up" data-aos-delay="800">
+              <a class="component-products d-block" href="https://store-html.buildwithangga.id/details.html">
+                <div class="products-thumbnail">
+                  <div class="products-image" style="
+                      background-image: url(&#39;3.jpg&#39;);
+                    "></div>
+                </div>
+                <div class="products-text">
+                  Monkey Toys
+                </div>
+                <div class="products-price">
+                  $783
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-12 text-center">
+            <p class="pt-4 pb-2">
+              2019 Copyright Store. All Rights Reserved.
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="./index_files/jquery.slim.min.js.download"></script>
+    <script src="./index_files/bootstrap.bundle.min.js.download"></script>
+    <script src="./index_files/aos.js.download"></script>
+    <script>
+      AOS.init();
+    </script>
+    <script src="./index_files/navbar-scroll.js.download"></script>
+  
+
+</body></html>
